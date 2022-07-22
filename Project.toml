@@ -1,0 +1,4 @@
+name = "LeetcodeInJulia"
+uuid = "8b86f785-4909-444c-a1ba-f438a4371cda"
+authors = ["Jonathan Fogel <fogeljonathan@gmail.com>"]
+version = "0.1.0"
