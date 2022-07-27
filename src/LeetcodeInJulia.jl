@@ -1,5 +1,5 @@
 module LeetcodeInJulia
 
-greet() = print("Hello World!")
+include("p0001twosum.jl")
 
 end # module
