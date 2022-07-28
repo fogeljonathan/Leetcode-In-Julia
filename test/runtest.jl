@@ -1,7 +1,6 @@
 using Test, LeetcodeInJulia
 
-#include("./otherthingswithtests.jl")
-
-@testset "Testset A Goes Here" begin
-  @test  1 < 2
+@testset "LeetcodeinJulia Runtests" begin
+  include("testp0001twosum.jl")
+  #Continue wih other testsets here.
 end
